@@ -2,3 +2,4 @@
 "hello:, World"
 name = ARGV.first || "world"
 "hello #{name}! "
+# default  is "word"
